@@ -1,0 +1,10 @@
+(Libro)
+Titolo: Harry Potter 
+Numero di pagine: 500 
+Autore: J.K.Rowling 
+Editore: Salani Editore
+(Libro)
+Titolo: Star Wars L'Erede dell'Impero
+Numero di pagine: 300 
+Autore: Timothy Zahn 
+Editore: Panini Comics

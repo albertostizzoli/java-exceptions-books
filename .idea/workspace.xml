@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d90f2f1-1a4c-41f5-afaf-1532922aeea3" name="Changes" comment="scaffolding and file README">
+    <list default="true" id="3d90f2f1-1a4c-41f5-afaf-1532922aeea3" name="Changes" comment="create class Book">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/experis/exceptions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/experis/exceptions/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -45,6 +47,26 @@
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.experis.exceptions.Main" />
+      <module name="java-exceptions-books" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.experis.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,11 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1712144419577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create class Book">
+      <option name="closed" value="true" />
+      <created>1712150848112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712150848112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="scaffolding and file README" />
-    <option name="LAST_COMMIT_MESSAGE" value="scaffolding and file README" />
+    <MESSAGE value="create class Book" />
+    <option name="LAST_COMMIT_MESSAGE" value="create class Book" />
   </component>
 </project>
